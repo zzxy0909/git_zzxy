@@ -49,10 +49,17 @@
      <Compile Include="Assets\01. Root\scripts\Gui\GuiBase.cs" />
      <Compile Include="Assets\01. Root\scripts\Gui\GuiManager.cs" />
      <Compile Include="Assets\01. Root\scripts\PlayerCar.cs" />
+     <Compile Include="Assets\01. Root\scripts\ingame\Enemy.cs" />
+     <Compile Include="Assets\01. Root\scripts\ingame\FartTrigger.cs" />
+     <Compile Include="Assets\01. Root\scripts\ingame\MonsterInfo.cs" />
+     <Compile Include="Assets\01. Root\scripts\ingame\MonsterSpawner.cs" />
+     <Compile Include="Assets\01. Root\scripts\ingame\MonsterWaypoint.cs" />
      <Compile Include="Assets\01. Root\scripts\util\FPSDisplay.cs" />
+     <Compile Include="Assets\01. Root\scripts\util\GameUtil.cs" />
      <Compile Include="Assets\01. Root\scripts\util\HUDFps.cs" />
      <Compile Include="Assets\01. Root\scripts\util\RatationBackground.cs" />
      <Compile Include="Assets\01. Root\scripts\util\RotationNode.cs" />
+     <Compile Include="Assets\01. Root\scripts\util\SpawnerPool.cs" />
      <Compile Include="Assets\01. Root\scripts\util\TestLayer.cs" />
      <Compile Include="Assets\Demigiant\DOTween\Examples\Basics.cs" />
      <Compile Include="Assets\Demigiant\DOTween\Examples\Sequences.cs" />

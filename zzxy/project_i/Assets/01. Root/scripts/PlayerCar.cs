@@ -32,7 +32,7 @@ public class PlayerCar : MonoBehaviour {
 
     public void PlayFart()
     {
-        Debug.Log("~~~~~~~~~~~~~ PlayFart");
+ //       Debug.Log("~~~~~~~~~~~~~ PlayFart");
         if(_isPlayFart)
         {
             return;
